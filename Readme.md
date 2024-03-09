@@ -1,10 +1,10 @@
-# PyQt5-Camara
-Project #3 with Python - PyQt5. Uses the camera resource.
+#PyQt5-Camera
+Project #3 with Python - PyQt5. Use the camera resource.
 
-Uses the camera resource and contains animations, full screen camera, 
+Uses the camera resource and contains animations, full screen camera,
 mini screen camera, the previous ones with keyboard shortcuts.
 
-You can also move window with cursor and move window with keyboard 
+You can also move window with cursor and move window with keyboard
 shortcuts, among others and more improvements.
 
 ## Viewer Shortcuts
@@ -21,11 +21,11 @@ shortcuts, among others and more improvements.
 * Ctrl + W = Move window 10px Up.
 * Ctrl + S = Move window 10px Down.
 
-* Ctrl + U = Esconder Borde.
-* Ctrl + I = Mostrar Borde.
+* Ctrl + U = Hide Border.
+* Ctrl + I = Show Border.
 
-* Ctrl + K = Ventana Tamaño completa.
-* Ctrl + N = Ventana Tamaño mini.
+* Ctrl + K = Full Size Window.
+* Ctrl + N = Mini Size Window.
 
 **Image 1**
 
@@ -35,6 +35,6 @@ shortcuts, among others and more improvements.
 
 ![Image2](./Image2.png)
 
-**Best regard !!!**
+**Best regard!!!**
 
 <cite>Author: Francisco Velez</cite>
